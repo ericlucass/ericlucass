@@ -1,5 +1,5 @@
 ## Olá! ✌
-###     *Eu sou o Eric!*
+#
 
 - 🔭 Desenvolvo minhas habilidades focando em Back-end
 - 🌱 Estudo análise e desenvolvimento de sistemas
